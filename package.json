@@ -1,0 +1,13 @@
+{
+  "name": "antd-script-tool",
+  "version": "1.0.0",
+  "description": "gennerate ant-design components stories script",
+  "main": "index.js",
+  "repository": "https://github.com/doless/antd-script-tool.git",
+  "author": "doless",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^16.6.1"
+  }
+}
